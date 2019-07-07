@@ -1,0 +1,3 @@
+#!/Users/pejman/.nvm/versions/node/v10.5.0/bin/node
+
+console.log("hello, world!");
